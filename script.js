@@ -1,7 +1,7 @@
 /*
 Undirected Graph with Breadth-First Search (BFS)
 
-A simple simulator and visualizer for a breadth-first search (BFS) algorithm on an undirected graph. Developed as Major Course Output for DLSU CSINTSY course (T3 2022-2023).
+A simple simulator and visualizer for a breadth-first search (BFS) algorithm on an undirected graph. Developed as Major Course Output #1 for DLSU CSINTSY course (T3 2022-2023).
 
 Members:
 - Gianela Kim Agsalon
@@ -10,7 +10,7 @@ Members:
 - John Lorenzo Tapia
 
 GitHub Repository:
-https://github.com/tapeau/CSINTSY.bfs_undirected_graph
+https://github.com/tapeau/CSINTSY.bfs-undirected-graph
 */
 // Graph class
 class Graph {
